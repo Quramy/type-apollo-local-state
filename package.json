@@ -25,7 +25,7 @@
     "graphql": "^14.3.1",
     "graphql-tag": "^2.10.1",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.17.4",
+    "type-graphql": "^0.17.6",
     "typedi": "^0.8.0"
   },
   "resolutions": {
